@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Shiful%20Islam&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20IoT%20%26%20Embedded%20%C2%B7%20AI%2FML&descSize=18&descAlignY=60&animation=fadeIn" alt="Shiful Islam" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Shiful%20Islam&fontSize=54&fontColor=ffffff" alt="Shiful Islam" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Backend+Developer;Building+software+that+talks+to+hardware;Embedded+Linux+%C2%B7+USB+%C2%B7+Raspberry+Pi;Machine+Learning+%C2%B7+Explainable+AI" alt="Typing animation" />
 
 <br/><br/>
